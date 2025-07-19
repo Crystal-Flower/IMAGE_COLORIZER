@@ -1,7 +1,7 @@
 # image_path = r"C:\Users\hp\OneDrive\Pictures\ChatGPT Image Jul 15, 2025, 08_47_13 PM.png"
 import numpy as np
 import cv2
-image_path=r"pexels-jhawley-57905.jpg"
+image_path=input("Enter image path: ")
 prototxt_path = r"colorization_deploy_v2.prototxt"
 model_models = r"colorization_release_v2.caffemodel"
 kernel_path = r"pts_in_hull.npy"

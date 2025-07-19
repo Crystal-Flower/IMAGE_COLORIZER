@@ -59,14 +59,6 @@ The colorized image will be displayed and automatically resized.
 
 ---
 
-## 🖼 Example
-
-| Grayscale Image       | Colorized Output            |
-| --------------------- | --------------------------- |
-| ![bw](example_bw.png) | ![color](example_color.png) |
-
----
-
 ## 🧠 Model Source
 
 This project uses models and resources from:
@@ -89,3 +81,4 @@ This project is for **educational and research** purposes only. Model and data c
 * OpenCV DNN integration
 * Example image colorization pipeline inspired by OpenCV tutorials
 
+---
