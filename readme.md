@@ -16,8 +16,7 @@ This project demonstrates how to colorize black-and-white images using a deep le
 
 ├── colorization\_release\_v2.caffemodel       # Pretrained model
 ├── colorization\_deploy\_v2.prototxt          # Model architecture
-├── pts\_in\_hull.npy                          # Cluster centers
-├── input\_image.png                          # Your grayscale input image
+├── pts\_in\_hull.npy                          # Cluster centers                
 ├── colorize.py                              # Main Python script
 └── README.md                                # This file
 
